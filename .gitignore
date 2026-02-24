@@ -41,3 +41,6 @@ out/
 
 .DS_Store
 **/.DS_Store
+
+settings.local.json
+**/settings.local.json

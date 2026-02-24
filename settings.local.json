@@ -29,7 +29,8 @@
       "mcp__serena__jet_brains_get_symbols_overview",
       "mcp__serena__jet_brains_find_symbol",
       "mcp__serena__jet_brains_type_hierarchy",
-      "WebSearch"
+      "WebSearch",
+      "mcp__tavily__tavily_search"
     ]
   }
 }
